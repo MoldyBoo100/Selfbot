@@ -1,7 +1,8 @@
 {
-    "owner": "",
-    "channelid": "",
-    "pinchannel": "",
-    "prefix": "",
-    "token": ""
+  "logs": "",
+	"pins": "",
+	"notes": "",
+  "mentions": "",
+	"prefix": "",
+	"token": ""
 }

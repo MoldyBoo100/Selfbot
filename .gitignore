@@ -1,0 +1,12 @@
+# Directories
+/node_modules/
+/logs/
+/backup/
+
+# File Extensions
+*.log
+*.png
+*.jpg
+
+# Specific Files
+settings.json
